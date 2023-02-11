@@ -1,2 +1,6 @@
 https://github.com/enikolaev/ML_and_NN/raw/main/data/crab.zip
 https://github.com/enikolaev/ML_and_NN/raw/main/data/goldfish.zip
+https://github.com/enikolaev/ML_and_NN/raw/main/data/goldfish.zip
+https://github.com/enikolaev/ML_and_NN/raw/main/data/jellyfish.zip
+https://github.com/enikolaev/ML_and_NN/raw/main/data/seahorse.zip
+https://github.com/enikolaev/ML_and_NN/raw/main/data/squid.zip
